@@ -19,4 +19,4 @@
 	process = git-lfs filter-process
 	required = true
 [credential]
-	helper = helper-selector
+	helper = !\"C:/Users/cep.DESKTOP-ULE5D4R/Desktop/GIT/mingw64/libexec/git-core/git-credential-manager-core.exe\"
